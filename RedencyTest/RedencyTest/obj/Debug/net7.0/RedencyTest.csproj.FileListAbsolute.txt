@@ -1,0 +1,14 @@
+D:\C_Sharp\Practic\RedencyTest\RedencyTest\bin\Debug\net7.0\RedencyTest.exe
+D:\C_Sharp\Practic\RedencyTest\RedencyTest\bin\Debug\net7.0\RedencyTest.deps.json
+D:\C_Sharp\Practic\RedencyTest\RedencyTest\bin\Debug\net7.0\RedencyTest.runtimeconfig.json
+D:\C_Sharp\Practic\RedencyTest\RedencyTest\bin\Debug\net7.0\RedencyTest.dll
+D:\C_Sharp\Practic\RedencyTest\RedencyTest\bin\Debug\net7.0\RedencyTest.pdb
+D:\C_Sharp\Practic\RedencyTest\RedencyTest\obj\Debug\net7.0\RedencyTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp\Practic\RedencyTest\RedencyTest\obj\Debug\net7.0\RedencyTest.AssemblyInfoInputs.cache
+D:\C_Sharp\Practic\RedencyTest\RedencyTest\obj\Debug\net7.0\RedencyTest.AssemblyInfo.cs
+D:\C_Sharp\Practic\RedencyTest\RedencyTest\obj\Debug\net7.0\RedencyTest.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Practic\RedencyTest\RedencyTest\obj\Debug\net7.0\RedencyTest.dll
+D:\C_Sharp\Practic\RedencyTest\RedencyTest\obj\Debug\net7.0\refint\RedencyTest.dll
+D:\C_Sharp\Practic\RedencyTest\RedencyTest\obj\Debug\net7.0\RedencyTest.pdb
+D:\C_Sharp\Practic\RedencyTest\RedencyTest\obj\Debug\net7.0\RedencyTest.genruntimeconfig.cache
+D:\C_Sharp\Practic\RedencyTest\RedencyTest\obj\Debug\net7.0\ref\RedencyTest.dll
